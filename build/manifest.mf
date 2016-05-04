@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: src.main.java.Taxonomy
+Class-Path: .
+            lib/log4j-1.2.9.jar
+            lib/sqljdbc4.jar
